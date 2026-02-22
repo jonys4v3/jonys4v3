@@ -69,7 +69,7 @@ De lo que vivo, de lo que aprendo y de lo que hago con la tecnología en mi día
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RoxsRoss's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jonys4v3&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true&bg_color=1F222E&title_color=39ff14&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RoxsRoss's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonys4v3&langs_count=8&layout=compact&theme=merko&hide_border=true&bg_color=1F222E&title_color=39ff14&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+
   <br/>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -96,5 +96,3 @@ Me puedes encontrar en:
 <samp>
   </div>
   
-   [![Comprar](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/roxsross)](https://www.buymeacoffee.com/roxsross)
-
